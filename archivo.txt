@@ -1,0 +1,34 @@
+hipoteca:1.0
+muebles y mantenimiento del hogar:5.0
+vehículos:4.0
+material deportivo:1.0
+sanidad:2.0
+educación:6.0
+transporte:8.0
+ocio:4.0
+comida:5.0
+agua, electricidad y gas:6.0
+ropa:2.0
+bebidas alcohólicas y/o tabaco:5.0
+FEBRERO:
+{}
+MARZO:
+{}
+ABRIL:
+{}
+MAYO:
+{}
+JUNIO:
+{}
+JULIO:
+{}
+AGOSTO:
+{}
+SETIEMBRE:
+{}
+OCTUBRE:
+{}
+NOVIEMBRE:
+{}
+DICIEMBRE:
+{}
